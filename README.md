@@ -17,7 +17,26 @@ pass: 1234
 
 penyewa: penyewa@gmail.com
 pass : 1234
+
+## Tampilan Awal
 ![Screenshot 2024-03-21 175100](https://github.com/umamumam/rental-mobil/assets/156331391/1492b1f9-4035-4018-8bfa-86eae26b038b)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/2d9746dc-9664-4c1f-a5ab-5d9a8b7db904)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/6552128e-5c34-4aff-9dc2-cb07a2c37732)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/2ad6ade8-0e94-4502-908a-64dc9711b0c5)
+
+
+## Login
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/46411787-7f98-4ed0-9827-8ecc7f4522c3)
+
+
+## Dashboard
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/7f989072-93ec-46d2-805b-b6ad6fc44f9b)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/6ddab51c-3b04-4266-8926-03cb568c6aad)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/d75af229-dea7-446e-ad50-bf58c4881021)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/7fc858fb-7ce3-4871-9789-97b7e618476a)
+![Screenshot 2024-03-21 182507](https://github.com/umamumam/rental-mobil/assets/156331391/a6911337-ac87-4cc8-987e-bf1e99fecd5c)
+![image](https://github.com/umamumam/rental-mobil/assets/156331391/e4e30ca3-06a9-4029-8479-2d5a6193c22c)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
