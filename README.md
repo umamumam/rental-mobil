@@ -1,4 +1,4 @@
-![image](https://github.com/umamumam/rental-mobil/assets/156331391/da4160d4-5157-423f-88d9-400118e14262)## Laravel 10 Rental Mobil
+## Laravel 10 Rental Mobil
 Cara Instal:
 1. Clon repositori: https://github.com/umamumam/rental-mobil.git
 2. Masuk ke folder dengan perintah: cd nama_projek
