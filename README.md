@@ -1,22 +1,40 @@
 ## Laravel 10 Rental Mobil
 Cara Instal:
 1. Clon repositori:
-   ```https://github.com/umamumam/rental-mobil.git```
+   ```
+   https://github.com/umamumam/rental-mobil.git
+   ```
 2. Masuk ke folder dengan perintah:
-   ```cd nama_projek```
+   ```
+   cd nama_projek
+   ```
 3. Copy .env.example menjadi .env kemudia edit databasenya
 4. Install Composer:
-   ```composer install```
+   ```
+   composer install
+   ```
 5. Install NPM kemudian jalankan:
-   ```npm install```
-   ```npm run dev```
+   ```
+   npm install
+   ```
+   ```
+   npm run dev
+   ```
 6. Migrasi :
-   ```php artisan artisan migrate:fresh --seed```
-    ```php artisan db:seed```
-7. Linkkan ke Public
-    ```php artisan storage:link```
+   ```
+    php artisan artisan migrate:fresh --seed
+    ```
+    ```
+    php artisan db:seed
+    ```
+7. Linkkan ke Public:
+    ```
+   php artisan storage:link
+    ```
 8. Jalankan Laravel:
-   ```php artisan serve```
+   ```
+   php artisan serve
+   ```
 
 ## Login
 admin : adminsewa@gmail.com
