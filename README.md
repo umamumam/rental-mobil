@@ -1,3 +1,24 @@
+## Laravel 10 Rental Mobil
+Cara Instal:
+1. Clon repositori: https://github.com/umamumam/rental-mobil.git
+2. Masuk ke folder dengan perintah: cd nama_projek
+3. Copy .env.example menjadi .env kemudia edit databasenya
+4. composer install
+5. npm install
+6. npm run dev
+7. php artisan artisan migrate:fresh --seed
+8. php artisan db:seed
+9. php artisan storage:link
+10. php artisan serve
+
+## Login
+admin : adminsewa@gmail.com
+pass: 1234
+
+penyewa: penyewa@gmail.com
+pass : 1234
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
